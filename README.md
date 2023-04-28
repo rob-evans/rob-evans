@@ -2,7 +2,7 @@
 
 Thanks for checking out my profile! I'm Rob, a mathematics graduate who enjoys working with data. My current stack for analysis is Python, SQL (MySQL), and Tableau.
 
-In my portfolio you'll find my projects on data analytics. I've also got some examples of work from my undergraduate Statistical Learning module which served as a mathematical introduction to machine learning, and focused on implementing these ideas in Python. 
+In my [portfolio](https://github.com/rob-evans/Superstore-Data-Exploration#readme) you'll find my projects on data analytics. I've also got some examples of work from my undergraduate Statistical Learning module which served as a mathematical introduction to machine learning, and focused on implementing these ideas in Python. 
 
 ### My Skills
 - Data preparation and cleaning
