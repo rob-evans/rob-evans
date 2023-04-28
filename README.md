@@ -26,5 +26,5 @@ In my portfolio you'll find my projects on data analytics. I've also got some ex
 
 ### 📫 How to reach me: 
 
-- [LinkedIn] (https://www.linkedin.com/in/robert-evans-7a6125125/)
+- [LinkedIn](https://www.linkedin.com/in/robert-evans-7a6125125/)
 
