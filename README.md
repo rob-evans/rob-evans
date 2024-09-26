@@ -1,6 +1,6 @@
 # Hi there 👋
 
-Thanks for checking out my profile! I'm Rob, a mathematics graduate who enjoys working with data. My current stack for analysis is Python, SQL (MySQL), and Excel.
+Thanks for checking out my profile. I'm Rob, a mathematics graduate and junior software engineer in the industrial services sector.
 
 
 ### My Skills
@@ -8,19 +8,18 @@ Thanks for checking out my profile! I'm Rob, a mathematics graduate who enjoys w
 - Exploratory data analysis
 
 ### My Tools
-- Databases: SQL (MySQL), Excel
+- Databases: Excel
 - Python: NumPy, Pandas, scikit-learn
-- Visualisation: Tableau, Matplotlib, Seaborn
+- Visualisation: Matplotlib, Seaborn
 
 ### 🔭 I’m currently working on:
-- UFC Analysis in SQL: Designing a database for a UFC dataset from Kaggle. Once the database is designed and filled I will be analysing fighters and events.
+- C Programming: A Modern Approach. This textbook provides a solid foundation in C89 and C99, useful for accelerating Python using the Cython compiler.
 
-- Mental Health in Tech Tableau Visualisation: Building and developing an interactive dashboard for the results of the OSMI Mental Health in Tech Survey 2016.
+- Extracting and preprocessing of financial data to backtest trading strategies.
 
 ### 🌱 I’m currently learning:
 
-- Foundations of database design
-- Advanced SQL query techniques such as aggregation, nested queries, and window functions
+- Data structures and algorithms: Increasing my expertise in DS&A will help me write code that executes and scales more effectively. 
 
 
 ### 📫 How to reach me: 
