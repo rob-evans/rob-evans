@@ -13,9 +13,8 @@ Thanks for checking out my profile. I'm Rob, a mathematics graduate and junior s
 - Visualisation: Matplotlib, Seaborn
 
 ### 🔭 I’m currently working on:
-- C Programming: A Modern Approach. This textbook provides a solid foundation in C89 and C99, useful for accelerating Python using the Cython compiler.
 
-- Extracting and preprocessing of financial data to backtest trading strategies.
+- Extracting and preprocessing of financial data to backtest algorithmic trading strategies.
 
 ### 🌱 I’m currently learning:
 
